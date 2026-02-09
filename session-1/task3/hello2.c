@@ -1,7 +1,7 @@
 
 /*
  * Hello world program
- * - compilation errors
+ * - compilation errors? Warnings to use <stdio.h>
  */
 
 int main( void ) {

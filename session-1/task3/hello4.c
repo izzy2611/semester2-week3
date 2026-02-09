@@ -1,7 +1,7 @@
 
 /*
  * Hello world program
- * - compilation errors?
+ * - compilation errors? No errors
  */
 
 #include <stdio.h>

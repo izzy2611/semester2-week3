@@ -1,7 +1,7 @@
 
 /*
  * Hello world program
- * - compilation errors
+ * - compilation errors: Needs curly brackets around function
  */
 
 #include <stdio.h>
